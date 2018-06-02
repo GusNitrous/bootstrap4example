@@ -1,2 +1,3 @@
-# bootstrap4example
-Landing page on Bootstrap 4
+# Landing page on Bootstrap 4
+
+![Landing demo page](./assets/demo_landing.gif)
